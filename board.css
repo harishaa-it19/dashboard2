@@ -1,0 +1,56 @@
+
+body {
+    background:url( "http://st1.cricketcountry.com/wp-content/uploads/cricket/image_20130328080826.jpg");
+      background-size: 1500px;
+   color: black;
+   font: 300 18px/1.6;
+   margin: 0;
+   padding: 5em 0 2em;
+   text-align: center;
+ }
+ h1{
+   font-weight: 300;
+   margin: 0;
+   font-family: Arial Narrow,Arial,sans-serif;
+ }
+ button {
+   border: 0;
+   background: rgba(42,50,113, .28);
+   color: white;
+   cursor: pointer;
+  font-family: Arial Narrow,Arial,sans-serif;
+     font-size: 200%;
+ }
+ input {
+    border: 0;
+  
+   background-attachment: fixed;
+ 
+ } 
+ p
+ {
+   font-weight: 300;
+   margin: 0;
+   font-family: Arial Narrow,Arial,sans-serif;
+   font-size: 200%;
+ }
+ a {
+   text-decoration: none;
+   -ms-transform-origin: left top 0;
+             -moz-transform-origin: left top 0;
+             -webkit-transform-origin: left top 0;
+             transform-origin: left top 0;
+ 
+             background: #E23737;
+             color: #fff;
+             margin-left: 40px;
+             padding: 10px;
+             border: 1px solid #ccc;
+             text-transform: uppercase;
+             border: 1px solid #B52C2C;
+             text-transform: 1px 1px 0px rgba(0, 0, 0, 0.5);
+             box-shadow: 2px -2px 0px rgba(0, 0, 0, 0.1);
+ }
+ .sc{
+     cursor: default;
+ }
